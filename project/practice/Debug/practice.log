@@ -1,0 +1,15 @@
+﻿  day1.cpp
+day1.obj : error LNK2019: _glfwInit_main 함수에서 참조되는 확인할 수 없는 외부 기호
+day1.obj : error LNK2019: _glfwTerminate_main 함수에서 참조되는 확인할 수 없는 외부 기호
+day1.obj : error LNK2019: _glfwWindowHint_main 함수에서 참조되는 확인할 수 없는 외부 기호
+day1.obj : error LNK2019: _glfwCreateWindow_main 함수에서 참조되는 확인할 수 없는 외부 기호
+day1.obj : error LNK2019: _glfwWindowShouldClose_main 함수에서 참조되는 확인할 수 없는 외부 기호
+day1.obj : error LNK2019: _glfwSetWindowShouldClose"void __cdecl processInput(struct GLFWwindow *)" (?processInput@@YAXPAUGLFWwindow@@@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+day1.obj : error LNK2019: _glfwSetFramebufferSizeCallback_main 함수에서 참조되는 확인할 수 없는 외부 기호
+day1.obj : error LNK2019: _glfwPollEvents_main 함수에서 참조되는 확인할 수 없는 외부 기호
+day1.obj : error LNK2019: _glfwGetKey"void __cdecl processInput(struct GLFWwindow *)" (?processInput@@YAXPAUGLFWwindow@@@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+day1.obj : error LNK2019: _glfwMakeContextCurrent_main 함수에서 참조되는 확인할 수 없는 외부 기호
+day1.obj : error LNK2019: _glfwSwapBuffers_main 함수에서 참조되는 확인할 수 없는 외부 기호
+day1.obj : error LNK2019: _glfwGetProcAddress_main 함수에서 참조되는 확인할 수 없는 외부 기호
+C:\Users\ppoo9\Desktop\OPENGL 공부\complie\Libs\glfw3.lib : warning LNK4272: 'x64' 라이브러리 컴퓨터 종류가 'x86' 대상 컴퓨터 종류와 충돌합니다.
+C:\Users\ppoo9\Desktop\OPENGL 공부\practice\Debug\practice.exe : fatal error LNK1120: 12개의 확인할 수 없는 외부 참조입니다.
