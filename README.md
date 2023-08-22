@@ -13,7 +13,7 @@ You can train and deeplearning with pix2pix, so that you can generate new output
 
 Input image data is hard shadow (shadow mapping) and soft shadow (pcss).
 
-![image](https://github.com/ParkJaeSeong98/PRE-OPENGL/assets/48883899/e6c6aeef-52e4-4f7a-85e5-fabb7e8b9600)
+<img width="80%" src="https://github.com/ParkJaeSeong98/PRE-OPENGL/assets/48883899/23641b1e-b610-4f3d-92aa-1c92c2664e47">
 
 
 Project folder is C++ solution folder using OPENGL.
@@ -25,10 +25,7 @@ cgan.py can be executed in jupyter notebook.
 - you have to modify PATH values.
 - you can to modify buffer_size, batch_size, steps as you want.
 
-
-![image](https://github.com/ParkJaeSeong98/PRE-OPENGL/assets/48883899/947c176b-5eee-4258-bb45-ee8b86133a2f)
-
-
+<img width="80%" src="https://github.com/ParkJaeSeong98/PRE-OPENGL/assets/48883899/fca347eb-933e-4559-9ae4-e5cbc15810b3">
 
 
 ## 📖 Libraries
